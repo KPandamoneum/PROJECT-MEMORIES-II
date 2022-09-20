@@ -1,0 +1,7 @@
+# files
+server/.env
+
+# folder
+.vscode
+client/node_modules
+server/node_modules
